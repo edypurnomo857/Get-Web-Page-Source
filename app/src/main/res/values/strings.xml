@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Penampil Web Page</string>
+    <string name="enter_url">Enter URL :</string>
+    <string name="get_page_source">Get Page Source</string>
+    <string name="www_example_com">www.example.com</string>
+    <string name="tampil_page">Tampil Page</string>
+    <string name="www_contohmu_com">www.contohmu.com</string>
+    <string-array name="spin">
+    <item>http://</item>
+    <item>https://</item>
+</string-array>
+</resources>
